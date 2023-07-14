@@ -11,6 +11,6 @@ The link to the dataset used can be found in the notebook.
 
 ### [SALARY MODEL](https://github.com/EddyEdgar/Projects/blob/main/SALARY_MODEL.ipynb)
 
-### [STUDENT STUDY PREDICTION]()
+### [STUDENT STUDY PREDICTION](https://github.com/EddyEdgar/Projects/blob/main/STUDENT_STUDY_PREDICTION.ipynb)
 
 ### [ULTRA SKINCARE ANALYSIS]()
