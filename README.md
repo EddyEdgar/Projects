@@ -8,10 +8,8 @@ This is a collection of some projects
 This project explores the movie; Game of Thrones using Exploratory Data Analysis.
 The link to the dataset used can be found in the notebook.
 This notebook includes the cleaning of Game of Thrones data as well as the use of Exploratory Analysis to extract information from the data.
-
-<B>Pandas</B>, <B>Seaborn</B>, <B>Matplotlib</B>, and <B>Numpy</B> are the libraries used in the notebook.
-
-<B>Box plots</B>, <B>heatmaps</B>, <B>histograms</B>, <B>density plots</B>, <B>scatter plots</B>, <B>violin plots</B>, <B>KDE</B>, and <B>line plots</B> are the tools used in the notebook. The notebook also depicts some relationships between the dataset's variables.
+Pandas, Seaborn, Matplotlib, and Numpy are the libraries used in the notebook.
+Box plots, heatmaps, histograms, density plots, scatter plots, violin plots, KDE, and line plots are the tools used in the notebook. The notebook also depicts some relationships between the dataset's variables.
 
 ### [IBM EMPLOYEE ATTRITION](https://github.com/EddyEdgar/Projects/blob/main/IBM%20EMPLOYEE%20ATTRITION_EDA.ipynb)
 An exploratory analysis of the IBM employee attrition dataset.
