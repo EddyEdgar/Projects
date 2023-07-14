@@ -23,9 +23,11 @@ It improves your understanding of the variables and their relationships. EDA ass
 
 
 ### [SALARY MODEL](https://github.com/EddyEdgar/Projects/blob/main/SALARY_MODEL.ipynb)
+This project explored a dataset of various individuals, performed exploratory analysis and built a model to predict whether or not a person earns above 50k or not.
 
 ### [STUDENT STUDY PREDICTION](https://github.com/EddyEdgar/Projects/blob/main/STUDENT_STUDY_PREDICTION.ipynb)
 This project predicts the percentage of a student based on the no. of study hours. It used simple linear regression as it involves just 2 variables.
 
 
 ### [ULTRA SKINCARE ANALYSIS](https://github.com/EddyEdgar/Projects/blob/main/ULTRA_SKINCARE_ANALYSIS.ipynb)
+This project involves the use of exploratory analysis as well as sentiment analysis on the reviews of a skincare product. I also used word cloud to show words that are perculiar to particular products.
